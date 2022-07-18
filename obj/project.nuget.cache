@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EoMy8kiihRq/B572/xHSrUpO7jHvrgiQpirHJ/4/ySrpIt0DN/znhp9TPAtJ0q+RsB6whYnOriouK0Y+c3607w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Irulandi\\source\\repos\\Web\\dotnet\\cloudcustomer\\cloudcustomer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Irulandi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Irulandi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Irulandi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Irulandi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Irulandi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Irulandi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
